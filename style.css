@@ -4,12 +4,14 @@ body {
 }
 
 main {
+  display:flex;
+  justify-content: center;
+  align-items: center;
  margin: 0 auto;
  height: 450px;
  background-image: url(../NASAmockup/Space.webp);
- text-align: center;
+ text-align: center; 
  color: white;
- 
 }
 
 section {
@@ -27,8 +29,6 @@ background-color: grey;
 }
 
 
-
-
 .text1{
   font-family: 'Inconsolata', monospace;
   font-weight: bold;
@@ -38,13 +38,5 @@ background-color: grey;
 }
 .text3 {
   font-family: 'Inconsolata', monospace;
-  font-weight: bold;
+  font-size: 100px;
 }
-.text4 {
-  font-family: 'Inconsolata', monospace;
-}
-.text5 {
-  font-family: 'Inconsolata', monospace;
-  font-weight: bold;
-}
-
