@@ -4,9 +4,9 @@ body {
 }
 
 main {
-  display:flex;
-  justify-content: center;
-  align-items: center;
+ display:flex;
+ justify-content: center;
+ align-items: center;
  margin: 0 auto;
  height: 450px;
  background-image: url(../NASAmockup/Space.webp);
@@ -15,17 +15,17 @@ main {
 }
 
 section {
-display: flex;
-Height: 324px;
-flex-direction: row;
-justify-content: space-between;
-background-color: grey;
+ display: flex;
+ Height: 324px;
+ flex-direction: row;
+ justify-content: space-between;
+ background-color: grey;
 }
 
 article {
-Width: 270px;
-height: 324px;
-background-color: grey;
+ Width: 270px;
+ height: 324px;
+ background-color: grey;
 }
 
 
