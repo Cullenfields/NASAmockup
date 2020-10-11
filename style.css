@@ -31,12 +31,13 @@ background-color: grey;
 
 .text1{
   font-family: 'Inconsolata', monospace;
+  text-decoration-line: underline;
   font-weight: bold;
 }
 .text2{
   font-family: 'Inconsolata', monospace;
 }
 .text3 {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Source Code Pro', monospace;
   font-size: 100px;
 }
